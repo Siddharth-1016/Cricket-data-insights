@@ -26,14 +26,6 @@ Cricket Data Insights empowers users—fans, analysts, and data enthusiasts—to
 
 ---
 
-## 📂 Project Structure
-
-Cricket-data-insights/
-├── data/ # Raw and cleaned cricket datasets
-├── notebooks/ # Jupyter notebooks with analysis scripts
-├── images/ # Output charts and visualizations
-├── README.md # Project documentation
-
 ---
 
 ## 📊 Example Insights
