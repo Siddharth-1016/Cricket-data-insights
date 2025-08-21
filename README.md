@@ -28,3 +28,51 @@ Cricket Data Insights empowers users—fans, analysts, and data enthusiasts—to
 
 ## 📂 Project Structure
 
+Cricket-data-insights/
+├── data/ # Raw and cleaned cricket datasets
+├── notebooks/ # Jupyter notebooks with analysis scripts
+├── images/ # Output charts and visualizations
+├── README.md # Project documentation
+
+---
+
+## 📊 Example Insights
+
+- Top run-scorers and wicket-takers by season
+- Win/Loss statistics by team
+- Player performance heatmaps
+- Head-to-head team comparisons
+
+---
+
+## 🔧 How to Use
+
+1. **Clone the repository:**
+    ```
+    git clone https://github.com/Siddharth-1016/Cricket-data-insights.git
+    ```
+2. **Navigate to the project folder and open notebooks:**
+    ```
+    cd Cricket-data-insights/notebooks
+    jupyter notebook
+    ```
+3. **Explore the Jupyter Notebooks to start your analysis!**
+
+---
+
+## 🤝 Contributing
+
+Contributions and ideas are welcome! Feel free to fork this repo, open pull requests, or submit issues for improvements.
+
+---
+
+## 📃 License
+
+This project is currently not licensed. Contact the maintainer for clarification if you want to use parts of it.
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to everyone who contributes to open cricket data sets and analytics!
+
